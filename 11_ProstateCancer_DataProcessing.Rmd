@@ -1,0 +1,15 @@
+---
+title: "Data Processing"
+author: "Team 2"
+date: "2025-11-03"
+output: pdf_document
+---
+
+## Read Data
+
+```{r}
+
+data <- read.csv("00_ProstateCancer_Data.csv", header=T)
+str(data)
+
+```
