@@ -1,8 +1,9 @@
 ---
-Title: "FinalReport"
-Author: "Team 2"
+Title: FinalReport
+Author: Team 2
 Date: "Due 2025-12-04"
 Output: pdf_document
+output: pdf_document
 ---
 
 Abstract:
